@@ -1,2 +1,2 @@
 # next-dashboard
-Next js official tutorial 
+Next js official tutorial, dashboard
